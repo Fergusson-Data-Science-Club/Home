@@ -12,12 +12,14 @@ Thanks for wanting to contribute! 🙌
    cd <repo-name>
 
 3. Create a feature branch:
-git checkout -b feat/your-feature
+   ```bash
+   git checkout -b feat/your-feature
 
 4. Make changes and commit:
-git add .
-git commit -m "Add: short description"
-git push origin feat/your-feature
+   ```bash
+   git add .
+   git commit -m "Add: short description of your change"
+   git push origin feat/your-feature
 
 5. Open a Pull Request to `main` with a clear description and any screenshots or replication steps.
 ## Code style
