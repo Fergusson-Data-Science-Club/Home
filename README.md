@@ -20,7 +20,7 @@ Welcome to the **official GitHub** of the Fergusson College Data Science Club �
 3. Read `CONTRIBUTING.md` for how to set up the project locally and send a PR.
 4. Join our club group for announcements (link in org profile).
 
-## 📁 Structure (example)
+## 📁 Structure
 - `open-source-projects/` — active and maintained repos for contributions
 - `previous-batch-projects/` — archived projects and final-year submissions
 - `resources/` — tutorials, datasets, notebooks, and templates
